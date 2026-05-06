@@ -1,14 +1,14 @@
 {
   "mappings": [
-    "/content/luma-site/language-masters/en:/",
-    "/content/luma-site/language-masters/en/:/en/",
-    "/content/luma-site/configuration:/.helix/config.json",
-    "/content/luma-site/metadata:/metadata.json",
-    "/content/luma-site/redirects:/redirects.json",
-    "/content/luma-site/placeholders:/placeholders.json"
+    "/content/pbakliwal/travel-20260506-200817/language-masters/en:/",
+    "/content/pbakliwal/travel-20260506-200817/language-masters/en/:/en/",
+    "/content/pbakliwal/travel-20260506-200817/configuration:/.helix/config.json",
+    "/content/pbakliwal/travel-20260506-200817/metadata:/metadata.json",
+    "/content/pbakliwal/travel-20260506-200817/redirects:/redirects.json",
+    "/content/pbakliwal/travel-20260506-200817/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/luma-site/",
-    "/content/dam/luma-site/"
+    "/content/pbakliwal/travel-20260506-200817/",
+    "/content/dam/pbakliwal/travel-20260506-200817/"
   ]
 }
